@@ -1,0 +1,6 @@
+docker-deploy-server.yml
+docker-deploy-server
+docker-deploy-server-darwin-amd64
+docker-deploy-server-linux-amd64
+docker-deploy-server-windows-amd64.exe
+**/.DS_Store
