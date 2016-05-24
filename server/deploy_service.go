@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/composer22/coreos-deploy/etcd2"
 	"github.com/composer22/docker-deploy-server/db"
+	"github.com/composer22/docker-deploy-server/etcd2"
 	"github.com/composer22/docker-deploy-server/logger"
 	"github.com/spf13/viper"
 	redis "gopkg.in/redis.v3"
